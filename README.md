@@ -17,11 +17,18 @@ on current trends.
 ● Determining the safest places for people to live in Europe within the next 25 to 50 years
 
 ## Models Implemented:
-#### Random Forest models
+#### Random Forest models 
+-versatile, handles large datasets well
+- Excels at sorting
 #### Convolution Neural Network (CNN)
+-great for image recognition tasks i.e. handwriting recognition, weather type identification
 #### Recursive Neural Network (RNN)
+- excellent for sequence recognition problems, i.e. writing generation
 #### Generative Adversarial Networks (GANs)
+- two competing generative networks, a fabricator and a detector, that when balanced can generate realistic "fakes"; the fundamental technology behind AI image generators like Midjourney.
 #### Hyperparameter Optimization
+-Enhances model performance, efficiency
+
 
 ## Dataset:
 Courtesy of the European Climate Assessment and Dataset project (https://www.ecad.eu/), including weather observations from 18 different weather stations across Europe containing data from the late 1800s to 2022, with values such as temperature, wind speed, global radiation, precipitation, and more.
