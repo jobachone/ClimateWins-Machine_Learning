@@ -5,6 +5,7 @@ ClimateWins tasked me  to assess what tools are available to categorize and pred
 However, it thinks that even weather extremes could be predicted and planned for using advanced tools such as machine learning. With data from the past century, it hopes to create a model for what the future will hold.
 
 Objectives: 
+
 ● Finding new patterns in weather changes over the last 60 years.
 
 ● Identifying weather patterns outside the regional norm in Europe.
