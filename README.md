@@ -1,4 +1,31 @@
-# ClimateWins Machine Learning
+# ClimateWins Machine Learning Achievement 2: Semisupervised and Unsupervised Models.
+
+ClimateWins tasked me  to assess what tools are available to categorize and predict the weather in mainland Europe. It’s concerned with theincrease in extreme weather events, especially in the past 10 to 20 years.
+
+However, it thinks that even weather extremes could be predicted and planned for using advanced tools such as machine learning. With data from the past century, it hopes to create a model for what the future will hold.
+
+Objectives: 
+● Finding new patterns in weather changes over the last 60 years.
+● Identifying weather patterns outside the regional norm in Europe.
+● Determining whether unusual weather patterns are increasing.
+● Generating possibilities for future weather conditions over the next 25 to 50 years based
+on current trends.
+● Determining the safest places for people to live in Europe within the next 25 to 50 years
+
+## Models Implemented:
+### Random Forest models
+### Convolution Neural Network (CNN)
+### Recursive Neural Network (RNN)
+### Generative Adversarial Networks (GANs)
+### Hyperparameter Optimization
+
+## Dataset:
+Courtesy of the European Climate Assessment and Dataset project (https://www.ecad.eu/), including weather observations from 18 different weather stations across Europe containing data from the late 1800s to 2022, with values such as temperature, wind speed, global radiation, precipitation, and more.
+
+## Deliverable: https://1drv.ms/p/s!AvOnzaD55C-F2xHCiTWQ25AcAgw1
+
+
+# ClimateWins Machine Learning Achievement 1: Supervised Machine Learning
 
 Conducted for my Specialization in Data Analytics course with CareerFoundry;
 
@@ -30,4 +57,3 @@ The repository is organized as follows:
 - Powerpoint Presentation to ClimateWins stakeholders.
 
 ** For space-saving purposes, 02 Data may be omitted from the repository **
-
