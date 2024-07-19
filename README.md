@@ -6,18 +6,22 @@ However, it thinks that even weather extremes could be predicted and planned for
 
 Objectives: 
 ● Finding new patterns in weather changes over the last 60 years.
+
 ● Identifying weather patterns outside the regional norm in Europe.
+
 ● Determining whether unusual weather patterns are increasing.
+
 ● Generating possibilities for future weather conditions over the next 25 to 50 years based
 on current trends.
+
 ● Determining the safest places for people to live in Europe within the next 25 to 50 years
 
 ## Models Implemented:
-### Random Forest models
-### Convolution Neural Network (CNN)
-### Recursive Neural Network (RNN)
-### Generative Adversarial Networks (GANs)
-### Hyperparameter Optimization
+#### Random Forest models
+#### Convolution Neural Network (CNN)
+#### Recursive Neural Network (RNN)
+#### Generative Adversarial Networks (GANs)
+#### Hyperparameter Optimization
 
 ## Dataset:
 Courtesy of the European Climate Assessment and Dataset project (https://www.ecad.eu/), including weather observations from 18 different weather stations across Europe containing data from the late 1800s to 2022, with values such as temperature, wind speed, global radiation, precipitation, and more.
